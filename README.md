@@ -12,7 +12,7 @@ This directory contains a folder LS-CCA which contains the following files.
 
 ## Usage
 
-import ```ls-cca.py``` file and write the following
+import ```LSCCA.py``` file and write the following
 ```py
 lscca = LSCCA(<number of views>, <scale>)
 W = lscca.fit(<array of datasets>)
