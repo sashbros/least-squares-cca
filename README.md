@@ -21,5 +21,4 @@ W = lscca.fit(<array of datasets>)
 
 ## Author
 
-Sarvagna Shukla <br>
-sarvagna.shukla2107@gmail.com
+Sarvagna Shukla
